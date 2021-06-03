@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions to be disputed in counsell of the lords spirituall after their returne from their visitation</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91602</idno><idno type="EEBO-CITATION">99860402</idno>
+  <idno type="VID">112522</idno>
+  <idno type="EEBO-PROQUEST">2240881862</idno>
+  
+            <idno type="STC">Wing Q187</idno>
+            <idno type="STC">Thomason E172_16</idno>
+            <idno type="STC">ESTC R18422</idno>
+            <idno type="PROQUEST">99860402</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860402e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112522)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions to be disputed in counsell of the lords spirituall after their returne from their visitation</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Pasquin, Deputy to Margery Mar-prelate,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term type="topical_term">Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112522:1"/>
+            <p>QVESTIONS TO BE DISPUTED IN THE COUNSELL OF THE LORDS SPIRITUALL After their RETVRNE from their VISITATION.</p>
+            <figure>
+               <figDesc>wreath</figDesc>
+               <lg>
+                  <l>
+                     <hi>When Blossomes fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet Leaves be seene.</hi>
+                  </l>
+                  <l>
+                     <hi>No Fruit but stalke</hi>
+                  </l>
+                  <l>
+                     <hi>Though Leaves be greene:</hi>
+                  </l>
+               </lg>
+               <head>GRAMINEA</head>
+            </figure>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted at LONDON, <hi>by Pasquin, Deputy to Margery Mar-prelate.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112522:2"/>
+            <pb facs="tcp:112522:2"/>
+            <head>QVAESTIONS to be disputed in the Counsell of the <hi>Lords Spirituall,</hi> after their Return from their <hi>Ʋisitation.</hi>
+            </head>
+            <p n="1">I. WHether the <hi>Canons (or Prebendaries,</hi> as they are called) comming to sit in the Queeres and Churches, for the gaine they have thereby, <hi>doe receive their reward in this world?</hi>
+            </p>
+            <p n="2">II. Whether the singing they make every day, may ra<g ref="char:EOLhyphen"/>ther be called labour and toyle of Asses, and a travaile of the body, rather then of the Mind?</p>
+            <p n="3">III. Whether <hi>Resignations, Permutations, chopping &amp; chang<g ref="char:EOLhyphen"/>ing</hi> and such comming to <hi>Benefices,</hi> as now is daily used be Simony?</p>
+            <p n="4">IV. Whether it be perilous, and not to be suffered by Ci<g ref="char:EOLhyphen"/>tizens, that the fat and well fed <hi>Priests,</hi> and such as are full of <hi>idlenesse,</hi> and lascivious living, should dwell so neare them without wives of their owne?</p>
+            <pb facs="tcp:112522:3"/>
+            <p n="5">V. Whither it be needfull in any City to have so many thousand of Masse-mumbling <hi>Priests,</hi> of which, few or none, teach or can teach the Gospell, sith <hi>Christ</hi> com<g ref="char:EOLhyphen"/>manded his Apostles, <hi>as their very duties and office;</hi> Say<g ref="char:EOLhyphen"/>ing, <hi>Goe ye preach the Gospell, &amp;c.</hi>
+            </p>
+            <p n="6">VI. Whither such as doe not instruct the <hi>People, that is to say,</hi> which doe not the very true Office that belongs to the <hi>Church,</hi> may receive, and enjoy the goodes of the Church, or are to be called <hi>Theeves and Robbers?</hi>
+            </p>
+            <p n="7">VII. Whither there be in all <hi>Europe,</hi> any one Bishop that doth his Office in such sort, as was prescribed by the Apostles?</p>
+            <p n="8">VIII. Whither the Bishops that are carelesse of their flock, and fall onely to flaying of their <hi>sheepe,</hi> may be called true Pastors, or Hirelings, <hi>is Christ calls them?</hi>
+            </p>
+            <p n="9">IX. Whither the greasing of <hi>Priests</hi> hands; be the Beasts marke, <hi>spoke of in the Apocalypse?</hi>
+            </p>
+            <p n="10">X. Whither the Doctors, that take no paines with their Doctrine, but are up with the Angels, ought to be called <hi>Speculators,</hi> rather then <hi>Practitioners?</hi>
+            </p>
+            <p n="11">XI. Whither such as would not have the holy <hi>Scripture</hi> to be read by the <hi>people,</hi> do fret, and rage within them<g ref="char:EOLhyphen"/>selves: that such bookes are abroad?</p>
+            <p n="12">XII. Whither the 1.3. <hi>Chap. of Matthew</hi> may be applyed to the Popish Clergy, and Arminia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Priests</hi> of our time?</p>
+            <p n="13">XIII. Whither the <hi>Persecutors</hi> of the <hi>Gospell,</hi> and the truth in our time, may be compared to the <hi>Pharisies,</hi> which sought the death of Christ, and his Apostles?</p>
+            <pb facs="tcp:112522:3"/>
+            <p n="14">XVI. Whether the like matter doe not now in these dayes, stir up the <hi>Popish affected People against the truth of the Gospell,</hi> as is recited in the Acts of the Apostles, concer<g ref="char:EOLhyphen"/>ning <hi>Diana</hi> of <hi>Ephesus?</hi>
+            </p>
+            <p n="15">XV. Whether that saying of the Gospell, <hi>Beware of false Prophets, Mat.</hi> 7. and that also of <hi>Peter,</hi> 2 <hi>Peter</hi> 2, <hi>That through Covetousnesse they shall make Marchandize of you, with faigned words,</hi> and many other like places of <hi>Scripture</hi> doe rightly belong to the whole swarme of the <hi>Prelates?</hi>
+            </p>
+            <p n="16">XVI. Whether that which Christ speaketh, <hi>Mat.</hi> 24. <hi>Of many false Prophets that shall come,</hi> may be understood to be of sundry of our Clergy?</p>
+            <p n="17">XVII. Whether the <hi>Prelates,</hi> having bin so often taken with the manner to use deceit, and to mocke the <hi>people, be therefore any more to be trusted afterwards, according to the old rule: He that is once a false knave at is marved if ever he be an honest man?</hi>
+            </p>
+            <p n="18">XVIII. Whether that saying of <hi>Daniel</hi> of the abomination of desolation, standing in the holy place, may be aptly applyed to the <hi>Churches</hi> of our time? In which the <hi>Clergy preferre themselves before the Kingdome of Hea<g ref="char:EOLhyphen"/>ven?</hi>
+            </p>
+            <p n="19">XIX. Whether it be expedient for the <hi>Christian Common<g ref="char:EOLhyphen"/>mor-weale,</hi> to take away from the <hi>Prelates</hi> their Domi<g ref="char:EOLhyphen"/>nions, and Dignities, <hi>that thereby it may be seene, whether they will returne to the antient Office of the Church?</hi>
+            </p>
+            <pb facs="tcp:112522:4"/>
+            <p n="20">XX. Whether the <hi>Prelates</hi> would not rather that <hi>England:</hi> yea, all <hi>Christendome,</hi> should be destroyed by warres, then that their Tyranny and power should be destroy<g ref="char:EOLhyphen"/>ed, or any whit diminished?</p>
+            <p n="21">XXI. Whether it may be doubted that the Papacy, and the great Beast, will not shortly have an overthrow, <hi>as the Scripture saith,</hi> sith long time since <hi>Germany, Denmarke, England and Scotland, have fallen from her, and France and Italy, also secretly?</hi>
+            </p>
+            <p n="22">XXII. Whether the <hi>Prelates</hi> dispensing all things for mo<g ref="char:EOLhyphen"/>ney, may not be called <hi>Spirituall penny Fathers;</hi> &amp; ther<g ref="char:EOLhyphen"/>fore be suspected of <hi>Covetousnesse?</hi>
+            </p>
+            <p n="23">XXIII. Whether there may be any hope of goodnesse con<g ref="char:EOLhyphen"/>ceived of their Recovery: sith <hi>Christ</hi> denyeth, that <hi>Blasphemers,</hi> and such as withstand the Truth against their <hi>Consciences</hi> can be healed?</p>
+            <p n="24">XXIV. Whither their <hi>Primacy</hi> be lawfully come by, sith it was gotten of <hi>Phocas the Emperour:</hi>who was a <hi>Mur<g ref="char:EOLhyphen"/>therer,</hi> and secretly, and with great Treason slew the <hi>Em<g ref="char:EOLhyphen"/>perour Moritius</hi> his Lord?</p>
+            <p n="25">XXV. Whither the <hi>Pope,</hi> and <hi>all Bishops,</hi> be or ought to be called <hi>Christs spouse,</hi> sith they keepe athome, so ma<g ref="char:EOLhyphen"/>ny Whores and Boyes?</p>
+            <p n="26">XXVI. Whither it be to believed, that either the <hi>Prelates</hi> wish heartily the Concord of Nations, being that their <hi>Forgeries</hi> are ever the beginnings of warres, or whither they wish any good to the <hi>Common-weale,</hi> over which to their power, they have alwayes tyrannized?</p>
+            <pb facs="tcp:112522:4"/>
+            <p n="27">XXVII. Whither any ought in these dayes to be offended, because the Doctrine of the Gospell seemeth to bring <hi>Dissensions,</hi> and <hi>alterations,</hi> sith that <hi>Christ</hi> faith that the same is a singular token, and most plain Demonstration of his Word, <hi>which came to send the sword, and not peace, and to set the Son against the Father, and the Daughter a<g ref="char:EOLhyphen"/>gainst the Mother?</hi>
+            </p>
+            <p n="28">XXVIII. Whither the <hi>Decre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Fathers,</hi> and of the <hi>Councils</hi> ought to be referred and examined, by the prescript rule of the Gospell, sith <hi>Paul so plainly said,</hi> that other Foun<g ref="char:EOLhyphen"/>dations that was already, ought not to be laid, and yet should it come to passe, that many thereupon would build, some gold, some stubble, some wood?</p>
+            <p n="29">XXIX. Whither such as in these dayes do confesse that there are Errours, and in the meane time doe not onely con<g ref="char:EOLhyphen"/>temne, but also condemn such as doe shew them those Errors, be like unto the <hi>Pharisees</hi> that said to him, that was born blind, and had received his sight of <hi>Christ,</hi> we know that God spake to <hi>Moses,</hi> but who this is (mea<g ref="char:EOLhyphen"/>ning <hi>Christ) we know not, nor whence he commeth?</hi>
+            </p>
+            <p n="30">XXX. Whither that saying of the Gospell. <hi>Lest happily the Romanes come and take away our place, Iohn</hi> 11. Doe hit just, such Kings and Princes, as will be born in hand, that if they receive the Gospell, <hi>it will come to passe, that their people will rebell, and not be obedient?</hi>
+            </p>
+            <p n="31">XXXI, Whither that which <hi>Paul</hi> speaking of the Doctrine of <hi>Divels,</hi> which he in spirit foresaw should arise, doth serve right for our <hi>Prelates:</hi> who for their Traditions have tormented men, which is the very nature of <hi>Satan,</hi> who is delighted with <hi>Murther and Bloud;</hi> and whither
+<pb facs="tcp:112522:5"/>the Hon: Assembly in the <hi>High Court of Parliament,</hi> who prosecute not their Enemies, are not much to be preferred before them: especially, seeing they have such power and love of the whole <hi>Kingdome,</hi> wherwith they might shew violence and cruelty? But like Pil<g ref="char:EOLhyphen"/>lars of our Nation they stand to hold us up, and not to throw us downe? <hi>Laut Deo.</hi>
+            </p>
+            <p n="32">XXXII. Whether it be to be believed, that a true and godly <hi>Reformation</hi> can be found out, whilst they sit in Coun<g ref="char:EOLhyphen"/>sels, and Deliberations: who for many Causes are the Popes own Darlings, &amp; that they will rather suffer any thing, then either to lose any jot of their Riches and Commodities: or to have their wickednesse and kna<g ref="char:EOLhyphen"/>very discovered?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
